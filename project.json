@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://github.com/wexcem43/Aqua_temp/raw/refs/heads/main/bin/Aquatemp.ino.bin",
+          "path": "https://github.com/wexcem43/Aqua_temp/blob/5a388be0eb9dba8d2967b15b74c2f91dc6337bee/bin/Aquatemp.ino.bin",
           "offset": 0
         }
       ]
