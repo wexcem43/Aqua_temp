@@ -1,7 +1,7 @@
 {
   "name": "Aqua_temp",
   "about": "bin",
-  "version": "1.0",
+  "version": "1.1",
   "notes": "Исправлены мелкие баги",
   "builds": [
     {
