@@ -2,13 +2,49 @@
   "name": "Aqua_temp",
   "about": "bin",
   "version": "1.1",
-  "notes": "test",
+  "notes": "Исправлены мелкие баги",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://github.com/wexcem43/Aqua_temp/blob/5a388be0eb9dba8d2967b15b74c2f91dc6337bee/bin/Aquatemp.ino.bin",
+          "path": "https://github.com/wexcem43/Aqua_temp/blob/738674f6c868fdab5ed15372928f0115a728cd16/bin/Aquatemp.ino.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
           "offset": 0
         }
       ]
