@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/AlexGyver/AiFrame/main/bin/firmware.bin",
+          "path": "https://raw.githubusercontent.com/wexcem43/Aqua_temp/main/bin/po.bin",
           "offset": 0
         }
       ]
